@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/kenrickhatton/Kenny-ecommerce.svg?branch=master)](https://travis-ci.org/kenrickhatton/Kenny-ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
